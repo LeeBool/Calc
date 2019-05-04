@@ -1,8 +1,8 @@
-1. 기본설정
+1. 기본설정(처음에 한 번만!)
 git config --global user.email "dynamic1117@gmail.com" 
 git config --global user.name "LeeBool"
 git init
-git remote add <레포지토리 이름> <github에서 이 repository의 URL>
+git remote add origin <github repository URL>
 
 <코드 수정하기>
 
